@@ -1,0 +1,2 @@
+# FastFoodFeedback-AI-Driven-Analysis-of-Customer-Reviews-in-French-Cities
+This project conducts an in-depth analysis of customer reviews for fast food restaurants in three major French cities: Lyon, Marseille, and Paris. The primary goal is to identify key factors influencing customer satisfaction and dissatisfaction, and to develop targeted, cost-effective strategies for improving customer experience in each city.
